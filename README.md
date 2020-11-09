@@ -15,3 +15,6 @@
 3.Udit Agarwal
 
 4.Tejas Gupta
+
+
+<i><b>"Team task can't fail coz there is always a backup"</b></i>
