@@ -17,4 +17,4 @@
 4.Tejas Gupta
 
 
-<i><b>"Team task can't fail coz there is always a backup"</b></i>
+<i>"Team task can't fail coz there is always a backup"</i>
