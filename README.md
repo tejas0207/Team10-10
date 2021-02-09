@@ -8,13 +8,13 @@
 
 <b>Team Members</b>
 
-1.Harshita kumari
+1.Tejas Gupta
 
 2.Pothuraju Swetha Chakrawarthy
 
 3.Udit Agarwal
 
-4.Tejas Gupta
+4.Harshita kumari
 
 
 <i>"Team task can't fail coz there is always a backup"</i>
